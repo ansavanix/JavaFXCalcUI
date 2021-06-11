@@ -16,11 +16,7 @@ import java.util.ResourceBundle;
 
 
 
-/**
- * FXML Controller class
- *
- * @author rajesh
- */
+//FXML Controller Class
 public class CalcUIController implements Initializable {
 
     Double tempo = 0.0, secondNumber = 0.0, sum = 0.0;
